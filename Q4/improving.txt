@@ -1,0 +1,12 @@
+3 way to improving the accessibility of HTML
+
+Use Semantic HTML Elements: As mentioned earlier, HTML5 introduced semantic elements like <header>, <nav>, <main>, and <footer>. 
+                            Utilize these elements to provide a clear and meaningful structure to your content, 
+                            making it easier for assistive technologies and search engines to understand.
+
+Provide Descriptive Text for Images: Always include descriptive alternative text (alt text) for images using the alt attribute. 
+                                        This allows screen readers to convey the content and purpose of images to visually impaired users.
+
+Use ARIA Roles and Attributes: The Accessible Rich Internet Applications (ARIA) specification provides additional attributes and 
+                                roles that can be added to HTML elements to improve accessibility. 
+                                For example, you can use role="button" to make a non-button element act like a button.

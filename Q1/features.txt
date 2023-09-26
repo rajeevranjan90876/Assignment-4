@@ -1,0 +1,15 @@
+following are the list of HTML5 :-
+Semantic Elements: HTML5 introduced a range of semantic elements like <header>, <nav>, <section>, <article>, and <footer>, 
+                    which provide a clearer structure for web documents and make it easier for search engines and assistive technologies to understand the content.
+
+Audio and Video: HTML5 includes built-in support for audio and video playback using the <audio> and <video> elements. 
+                 This eliminates the need for third-party plugins like Adobe Flash for multimedia content.
+
+Canvas: The <canvas> element allows for dynamic, scriptable rendering of 2D graphics, 
+        making it possible to create interactive games, charts, and animations directly within the browser.
+
+SVG Support: HTML5 provides native support for Scalable Vector Graphics (SVG), which enables the creation of high-quality, 
+                resolution-independent graphics and animations.
+
+Form Enhancements: HTML5 introduced new form input types (e.g., <input type="email">, <input type="date">) 
+                    and attributes (e.g., required, placeholder) to improve user experience and validation.
